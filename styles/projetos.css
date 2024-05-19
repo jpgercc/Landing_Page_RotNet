@@ -98,7 +98,7 @@ body{
     padding: 12%;
     text-align: center;
     font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
+   font-size: 1.5rem;
     font-weight: 400;
 }
 
@@ -116,10 +116,10 @@ body{
         padding: 2% 0% 0% 2%;
     }
     .titulo-destaque{
-        font-size: 2rem;
+       /* font-size: 2rem; */
     }
     .div{
-        font-size: 1rem;
+       /* font-size: 1rem; */
     }
 }
 
@@ -133,7 +133,7 @@ body{
     }
 
     .cabecalho__menu__link{
-        font-size: 1.3rem;
+       /* font-size: 1.3rem; */
     }
 
     .apresentacao{
@@ -146,14 +146,14 @@ body{
     }
 
     .apresentação__links__subtitulo{
-        font-size: 1.3rem;
+       /* font-size: 1.3rem; */
     }
 
     .apresentacao__links__link{
         border: 0px solid var(--cor-terciaria);
         width: 60%;
         border-radius: 8px;
-        font-size: 1.5rem;
+       /* font-size: 1.5rem; */
         color: var(--cor-secundaria);
     }
 
