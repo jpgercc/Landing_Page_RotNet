@@ -140,6 +140,7 @@ body{
     color: var(--cor-hover);
 }
 
+
 @media screen and (max-width: 1330px){
     .cabecalho_cv{
         padding: 2%;
@@ -150,7 +151,7 @@ body{
     }
 
     .cabecalho__menu__link{
-        font-size: 1.3rem;
+        /*font-size: 1.3rem;*/
     }
 
     .titulo_cv{
@@ -163,7 +164,7 @@ body{
     }
 
     .apresentação__links__subtitulo{
-        font-size: 1.3rem;
+        /*font-size: 1.3rem;*/
     }
 
     .apresentacao__links__link{
@@ -182,13 +183,13 @@ body{
 
 @media screen and (max-width: 520px){
     .titulo_cv{
-        font-size: 1.2rem;
+       /* font-size: 1.2rem; */
     }
     .paragrafo_cv{
-        font-size: 1.1rem;
+      /*  font-size: 1.1rem; */
     }
     .titulo_baixar{
-        font-size: 1rem;
+      /*  font-size: 1rem; */
     }
 }
 
