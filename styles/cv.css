@@ -131,6 +131,14 @@ body{
     font-weight: 400;
 }
 
+.nav_links{
+    text-decoration: none;
+    color: var(--cor-secundaria)
+}
+
+.nav_links:hover{
+    color: var(--cor-hover);
+}
 
 @media screen and (max-width: 1330px){
     .cabecalho_cv{
